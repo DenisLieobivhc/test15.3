@@ -1,6 +1,5 @@
-print("hello denis")
-print("hello levanaaa")
+x= 5
+y = 10
 
-x = 4
-t = 4
-print(x*t)
+x = x*y
+print(x)
